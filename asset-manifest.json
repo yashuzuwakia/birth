@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/birthday-countdown/static/css/main.045184f2.css",
+    "main.js": "/birthday-countdown/static/js/main.a976b900.js",
+    "index.html": "/birthday-countdown/index.html",
+    "main.045184f2.css.map": "/birthday-countdown/static/css/main.045184f2.css.map",
+    "main.a976b900.js.map": "/birthday-countdown/static/js/main.a976b900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045184f2.css",
+    "static/js/main.a976b900.js"
+  ]
+}
