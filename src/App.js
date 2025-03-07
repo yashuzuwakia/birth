@@ -54,7 +54,7 @@ export default function Body() {
   return (
     <div className="container" style={{ background: bgColor, color: textColor, padding: "20px", paddingTop: "40px", paddingBottom: "40px" }}>
       {showConfetti && <Confetti />}
-      <h1 className="birthday-title">🎉 Countdown to Her Special Day! 🎂</h1>
+      <h1 className="birthday-title">🎉 Countdown to My Jaana's Special Day! 🎂</h1>
       <h2 className="birthday-date">12th March 2025</h2>
       <div className="countdown">
         <div className="time-box"><span>{remainingTime.days}</span> Days</div>
